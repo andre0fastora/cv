@@ -1,2 +1,2 @@
 # cv
-My personal website!
+Outdated personal site
